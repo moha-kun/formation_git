@@ -47,6 +47,8 @@ Pour pouvoir travailler séparément sur des features différentes on utilise de
 
 * Créer une branche et place toi sur cette nouvelle branche
 * Vérifie que cette branche est bien sélectionnée
+
+  #test
 * Effectuer des modifications sur la nouvelle branche
 * Validation des changements
 * Retour à la branche principale 
